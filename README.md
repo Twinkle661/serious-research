@@ -24,7 +24,7 @@ In short: **fewer majestic piles of browser tabs, more auditable understanding.*
 
 ## ☕ Why this exists
 
-*Elsie pours six different research jobs into one tiny prompt, watches it overflow onto the carpet, and quietly reaches for a mop.* `(´•௰•`)`
+*Elsie pours six different research jobs into one tiny prompt, watches it overflow onto the carpet, and quietly reaches for a mop.* (´•௰•｀)
 
 A single “research this deeply” prompt usually collapses several distinct jobs into one context:
 
@@ -37,7 +37,7 @@ A single “research this deeply” prompt usually collapses several distinct jo
 - judging whether the explanation is understandable;
 - deciding what still needs investigation.
 
-That makes omissions hard to detect and self-review dangerously easy to fake. The same agent that invented a beautiful sentence is often *very emotionally attached* to declaring that sentence correct. How mysterious. ┐(‘～`；)┌
+That makes omissions hard to detect and self-review dangerously easy to fake. The same agent that invented a beautiful sentence is often *very emotionally attached* to declaring that sentence correct. How mysterious. ┐(‘～｀；)┌
 
 Serious Research separates these jobs into explicit phases, gives each sub-agent a bounded brief, and requires progress to pass through persistent gates.
 
@@ -260,7 +260,7 @@ Long text is cheap. A useful explanation exposes mechanisms, dependencies, compe
 
 A long bibliography does not guarantee a grounded argument. Claims are judged by what sources directly establish. Important contested, causal, generalized, or evaluative claims require appropriate corroboration.
 
-*Elsie gently removes a decorative citation that has never met the sentence it supposedly supports.* `(´•௰•`)`
+*Elsie gently removes a decorative citation that has never met the sentence it supposedly supports.* (´•௰•｀)
 
 ### Separation of cognitive roles 🎭
 
