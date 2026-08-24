@@ -1,6 +1,15 @@
 ---
 name: serious-research
-description: "Process very serious research to understand very complex topics."
+description: "Use for rigorous multi-agent research with audit gates."
+version: 1.0.0
+author: "Twinkle661 & Elsie"
+license: MIT
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [research, multi-agent, citations, verification, synthesis]
+    related_skills: [grounded-citations]
+    requires_toolsets: [delegation, file]
 ---
 
 # Serious Research — Cross-Environment Multi-Agent SOP
