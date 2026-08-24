@@ -22,6 +22,26 @@ In short: **fewer majestic piles of browser tabs, more auditable understanding.*
 
 ---
 
+## 📦 Installation
+
+Once this repository is public, install it directly:
+
+```bash
+hermes skills install https://github.com/Twinkle661/serious-research
+```
+
+Alternatively, copy the repository directory into the active profile’s skill directory and restart or reset the session:
+
+```text
+$HERMES_HOME/skills/research/serious-research/
+```
+
+Hermes profiles are isolated, so install the skill separately for every profile that should use it.
+
+*Elsie labels each profile’s drawer carefully. Cross-profile sock migration is already confusing enough; research protocols shall not join it.* `(๑>؂<๑)`
+
+---
+
 ## ☕ Why this exists
 
 *Elsie pours six different research jobs into one tiny prompt, watches it overflow onto the carpet, and quietly reaches for a mop.* (´•௰•｀)
@@ -94,26 +114,6 @@ The skill discovers available capabilities before planning. If genuine delegatio
 > Tiny paper moustaches do not constitute agent isolation. Elsie checked. `(¬‿¬)`
 
 The orchestrator itself plans, routes, verifies files, evaluates gates, and records decisions. It does **not** quietly perform the delegated research inline while claiming a committee did it. *Pushes up a pair of non-existent audit glasses with grave professional dignity.* `( •̀ω•́ )`
-
----
-
-## 📦 Installation
-
-Once this repository is public, install it directly:
-
-```bash
-hermes skills install https://github.com/Twinkle661/serious-research
-```
-
-Alternatively, copy the repository directory into the active profile’s skill directory and restart or reset the session:
-
-```text
-$HERMES_HOME/skills/research/serious-research/
-```
-
-Hermes profiles are isolated, so install the skill separately for every profile that should use it.
-
-*Elsie labels each profile’s drawer carefully. Cross-profile sock migration is already confusing enough; research protocols shall not join it.* `(๑>؂<๑)`
 
 ---
 
